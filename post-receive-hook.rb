@@ -1,4 +1,4 @@
-#!/bin/env ruby
+#!/usr/bin/env ruby
 
 # Minimally mimic the GitHub post-receive hook for private repositories.
 #
